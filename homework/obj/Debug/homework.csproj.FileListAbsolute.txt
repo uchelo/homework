@@ -1,0 +1,7 @@
+C:\projects\homework\homework\bin\homework.dll
+C:\projects\homework\homework\bin\homework.pdb
+C:\projects\homework\homework\bin\EntityFramework.dll
+C:\projects\homework\homework\bin\EntityFramework.xml
+C:\projects\homework\homework\obj\Debug\ResolveAssemblyReference.cache
+C:\projects\homework\homework\obj\Debug\homework.dll
+C:\projects\homework\homework\obj\Debug\homework.pdb
